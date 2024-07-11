@@ -13,3 +13,18 @@ C:\Users\jluis\Desktop\mejora\C-Sharp-Course\Variables\obj\Debug\net8.0\refint\V
 C:\Users\jluis\Desktop\mejora\C-Sharp-Course\Variables\obj\Debug\net8.0\Variables.pdb
 C:\Users\jluis\Desktop\mejora\C-Sharp-Course\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
 C:\Users\jluis\Desktop\mejora\C-Sharp-Course\Variables\obj\Debug\net8.0\ref\Variables.dll
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\Jose Luis\Desktop\improvement C#\Variables\obj\Debug\net8.0\ref\Variables.dll
