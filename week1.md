@@ -14,3 +14,13 @@
   
 ---
 
+## day 2
+
+- **Types in C#:** Value types, Reference types, Generic type parameters, Pointer types.
+- **Value Types:** Stored in stack, contain own data, faster access, primitive types and structs.
+- **Reference Types:** Stored in heap, contain references, flexible for complex data structures, includes classes, arrays, strings.
+- **Predefined Types:** Numeric (int, float), Logical (bool), Character (char), String (string), Object (object).
+- **Numeric Literals:** Integer (decimal, hex, binary), Floating-point (decimal, scientific notation), suffixes (f, d, m).
+- **Examples:** Variable declaration, Console.WriteLine, GetType(), implicit/explicit numeric conversions.
+
+---
