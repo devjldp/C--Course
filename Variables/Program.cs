@@ -104,11 +104,43 @@ Console.WriteLine(x);
 
 
 // ================================ Numeric Values ============================================
+/* Numeric Literals: Numeric literals in C# represent fixed values directly written in the code that correspond to numbers. 
+ * 
+ *  - Integer Literals: Integer literals represent whole numbers.
+ *      + Decimal:Regular numbers without a prefix. int decimalNumber = 1234;
+ *      + Hexadecimal: Prefixed with 0x or 0X. int hexNumber = 0x1A3F;
+ *      + Binary: Prefixed with 0b or 0B. int binaryNumber = 0b1010;
+ *      + Underscore in Literals: For better readability, underscores can be used to separate digits. int largeNumber = 1_000_000; 
+ *      
+ * - Floating-Point Literals: Floating-point literals represent numbers with fractional parts.      
+ *      + Decimal: Without any suffix, considered as double by default. double decimalDouble = 1234.56;
+ *      + Scientific Notation: Uses e or E to denote the power of 10. double scientificNotation = 1.23e4; // 1.23 × 10^4
+ * 
+ * - Suffixes for type Specification:
+ *      + f or F for float.
+ *      + d or D for double (optional as double is the default).
+ *      + m or M for decimal.
+ *      
+ */
+
 x = 1_000_000;
 Console.WriteLine(x);
 // Getting the type of the variable x
-Console.WriteLine(x.GetType());
+Console.WriteLine(x.GetType()); // Output: System.Int32
+
+// float myFloat = 4.7; Output: error CS0664: Literal of type double cannot be implicitly converted to type 'float'; use an 'F' suffix to create a literal of this type
+
+float myFloat = 4.7f;
+Console.WriteLine(myFloat);
+
+//======== Numeric conversions ===============
+
+// Converting between integral types 
+// Integral type conversions are implicit when the destination type can represent every
+// possible value of the source type. Otherwise, an explicit conversion is required;
 
 
-
+int x = 12345; // int is a 32-bit integer
+long y = x; // Implicit conversion to 64-bit integral type
+short z = (short)x; // Explicit conversion to 16-bit integral type
 
